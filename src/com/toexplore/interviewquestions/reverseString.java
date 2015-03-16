@@ -8,6 +8,9 @@
  */
 package com.toexplore.interviewquestions;
 
+import java.util.Collection;
+import java.util.Collections;
+
 /**
  * 1、翻转字符串，I am Jack  --> Jack am I
  * 
