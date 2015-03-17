@@ -30,7 +30,8 @@ public class bloomfilter
     
     public static void main(String[] args)
     {
-        bloomfilter bloomfilter = new bloomfilter("F:\\GitHub\\MyJava\\src\\com\\toexplore\\datastruct\\bloomfilter.txt");
+        bloomfilter bloomfilter = new bloomfilter(
+                "F:\\GitHub\\MyJava\\src\\com\\toexplore\\datastruct\\bloomfilter.txt");
         bloomfilter.init();
         System.out.println(bloomfilter.isExit("http://baidu.com"));
     }
