@@ -1,6 +1,19 @@
+/**
+ * Copyleft (C) 2014 ToExplore
+ *
+ * Email:  wangf_solar@163.com
+ * QQ:     806241138
+ * WeiBo:  ToExplore
+ * wechat: bigMufasa
+ */
 package com.toexplore.interviewquestions;
 
 import java.util.Arrays;
+
+/**
+ * 给定一个整数数组，求前N大的数据
+ * 
+ */
 
 public class topN
 {
